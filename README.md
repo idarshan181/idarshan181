@@ -1,6 +1,10 @@
 <div align="center">
-  <h1>Hi 👋, I'm Darshan Patel</h1>
-  <h3>A Solution-Oriented Innovator and Full-Stack Developer</h3>
+  <h1>
+  Hi 👋, I'm Darshan Patel
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML%2FAI+Enthusiast" alt="Typing SVG" /></a>
+  </h1>
+    
+  <!-- <h3>A Solution-Oriented Innovator and Full-Stack Developer</h3> -->
 </div>
 
 <p>A <b>Solution-Oriented Innovator</b> driven by the passion to build scalable systems and impactful technologies. With 4+ years of experience in crafting cutting-edge solutions, I thrive on turning ideas into reality. Currently pursuing my <b>Master of Applied Science in Computer Engineering at Memorial University</b>, I’m dedicated to creating meaningful advancements that contribute to a better future.
