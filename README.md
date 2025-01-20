@@ -1,8 +1,10 @@
 <div align="center">
-  <h1>
+  <h1 align="center">
   Hi 👋, I'm Darshan Patel
+  <br />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML%2FAI+Enthusiast" alt="Typing SVG" /></a>
   </h1>
+  
     
   <!-- <h3>A Solution-Oriented Innovator and Full-Stack Developer</h3> -->
 </div>
