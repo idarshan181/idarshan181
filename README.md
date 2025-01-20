@@ -3,34 +3,18 @@
 <div>
   <h1 align="center">Hi 👋, I'm Darshan Patel</h1>
   <h3 align="center">Connect with me:</h3>
-
-  <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-  <p align="center" style="font-size: 20px; text-decoration: none;">
+  <p align="center" style="font-size: 20px;">
   <a href="https://twitter.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="idarshan18" />
+    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idarshan18" />
   </a>
   <a href="https://linkedin.com/in/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="idarshan18" />
+    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idarshan18" />
   </a>
   <a href="https://fb.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" alt="idarshan18" />
+    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idarshan18" />
   </a>
   <a href="https://instagram.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="idarshan18" />
+    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idarshan18" />
   </a>
   <a href="https://www.leetcode.com/idarshan18" target="blank">
     <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idarshan18" />
