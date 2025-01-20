@@ -3,23 +3,13 @@
 <div>
   <h1 align="center">Hi 👋, I'm Darshan Patel</h1>
   <h3 align="center">Connect with me:</h3>
-  <p align="center" style="font-size: 20px;">
-  <a href="https://twitter.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idarshan18" />
-  </a>
-  <a href="https://linkedin.com/in/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idarshan18" />
-  </a>
-  <a href="https://fb.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idarshan18" />
-  </a>
-  <a href="https://instagram.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idarshan18" />
-  </a>
-  <a href="https://www.leetcode.com/idarshan18" target="blank">
-    <img width="24px" height="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idarshan18" />
-  </a>
-</p>
+  <p align="center">
+  <a href="https://twitter.com/idarshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idarshan18" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/idarshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idarshan18" height="30" width="40" /></a>
+  <a href="https://fb.com/idarshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idarshan18" height="30" width="40" /></a>
+  <a href="https://instagram.com/idarshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idarshan18" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/idarshan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idarshan18" height="30" width="40" /></a>
+  </p>
 
 </div> 
 <p>A <b>Solution-Oriented Innovator</b> driven by the passion to build scalable systems and impactful technologies. With 4+ years of experience in crafting cutting-edge solutions, I thrive on turning ideas into reality. Currently pursuing my <b>Master of Applied Science in Computer Engineering at Memorial University</b>, I’m dedicated to creating meaningful advancements that contribute to a better future.
