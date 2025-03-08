@@ -4,12 +4,17 @@
   <br />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML%2FAI+Enthusiast" alt="Typing SVG" /></a>
   </h1>
-  
-    
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div align="center">
+      <a href="https://www.idarshan18.com" referrerpolicy="origin" target="_blank"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
+      <a href="www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:work.idarshan18@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      </div>
+  </div>
   <!-- <h3>A Solution-Oriented Innovator and Full-Stack Developer</h3> -->
 </div>
 
-<p>A <b>Solution-Oriented Innovator</b> driven by the passion to build scalable systems and impactful technologies. With 4+ years of experience in crafting cutting-edge solutions, I thrive on turning ideas into reality. Currently pursuing my <b>Master of Applied Science in Computer Engineering at Memorial University</b>, I’m dedicated to creating meaningful advancements that contribute to a better future.
+<p>A <b>Solution-Oriented Innovator</b> driven by the passion to build scalable systems and impactful technologies. With 4+ years of experience in crafting cutting-edge solutions, I thrive on turning ideas into reality. Currently pursuing my <b>Master of Applied Science in Computer Engineering at Memorial University</b>, I'm dedicated to creating meaningful advancements that contribute to a better future.
 
 I am currently working on <b>exciting personal side projects</b>, focusing on building innovative and impactful solutions in AI and scalable system architectures. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive list of tools that I am proficient with.
 
@@ -98,8 +103,8 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/idarshan181/SD-url-shortener">SD URL Shortener</a></td>
-      <td>A full-stack URL Shortener application built using System Design concepts by Alex Xu.</td>
+      <td><a href="https://github.com/idarshan181/SD-url-shortener">LinkSnip - URL Shortener</a></td>
+      <td>A full-stack URL shortener application that allows users to create short links for long URLs, track link analytics, and manage their links efficiently.</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
@@ -108,9 +113,9 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
       <td>✅ Completed</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/idarshan181/expense-tracker-react-context">Expense Tracker</a></td>
-      <td>An Expense Tracker application built to practice React Context API.</td>
-      <td>✅ Completed</td>
+      <td><a href="https://github.com/idarshan181/ExpenseTracker-MUN">Expense Tracker MUN</a></td>
+      <td>A web-based application designed to help users efficiently manage their finances by tracking income, expenses, and spending habits with real-time insights and budgeting tools.</td>
+      <td>🔨 In Progress</td>
     </tr>
     <tr>
       <td><a href="https://github.com/idarshan181/faceblur-server-fastapi">FaceBlur Server</a></td>
@@ -147,7 +152,9 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
   <h2 align="center">Connect With Me</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <div align="center">
+      <a href="https://www.idarshan18.com" referrerpolicy="origin" target="_blank"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
       <a href="www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="mailto:work.idarshan18@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      </div>
   </div>
 </div>
