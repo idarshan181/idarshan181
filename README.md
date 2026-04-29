@@ -2,36 +2,39 @@
   <h1 align="center">
   Hi 👋, I'm Darshan Patel
   <br />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML%2FAI+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Product+%26+Tech+Lead;Building+AI-Powered+Platforms+at+Scale;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
   </h1>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <div align="center">
       <a href="https://www.idarshan18.com" referrerpolicy="origin" target="_blank"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
-      <a href="www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="mailto:work.idarshan18@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      </div>
+    </div>
   </div>
-  <!-- <h3>A Solution-Oriented Innovator and Full-Stack Developer</h3> -->
 </div>
 
-<p>A <b>Solution-Oriented Innovator</b> driven by the passion to build scalable systems and impactful technologies. With 4+ years of experience in crafting cutting-edge solutions, I thrive on turning ideas into reality. Currently pursuing my <b>Master of Applied Science in Computer Engineering at Memorial University</b>, I'm dedicated to creating meaningful advancements that contribute to a better future.
+<br />
 
-I am currently working on <b>exciting personal side projects</b>, focusing on building innovative and impactful solutions in AI and scalable system architectures. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive list of tools that I am proficient with.
+<p>
+A <b>Full-Stack Developer and Product Lead</b> with 5+ years of experience building scalable cloud-native systems and AI-powered tools. Currently serving as <b>Product and Tech Lead at Focus FS</b>, leading the technical direction and product strategy for AI-driven industrial safety platforms serving 23+ enterprise tenants on Azure. Previously shipped high-scale ML pipelines, processing <b>13M PDFs in 3 days</b> with 30K concurrent scans for the Rajasthan Government.
+
+I hold a <b>Master of Applied Science in Computer Engineering from Memorial University of Newfoundland</b> and am a certified <b>AWS Cloud Practitioner</b>. My work sits at the intersection of full-stack engineering, cloud infrastructure, and applied AI — building systems that are not just technically sound but genuinely useful to the people using them under pressure.
+</p>
 
 <div>
 <ul>
-  <li><b>Machine Learning:</b> Supervised & Unsupervised Models | Regression Models | Reinforcement Learning Models</li>
-  <li><b>Natural Language Processing (NLP):</b> Retrieval-Augmented Generation (RAG) | LLM Fine-tuning, Inference, and Optimization</li>
-  <li><b>Computer Vision:</b> Object Detection (YOLO) | Pose Detection | ASL Recognition</li>
+  <li><b>Leadership:</b> Product strategy | Engineering roadmaps | Cross-functional team coordination | Stakeholder alignment | Architectural decisions</li>
+  <li><b>Machine Learning:</b> Supervised and Unsupervised Models | RAG | LLM Fine-tuning and Inference | OCR Pipelines | Pose Detection</li>
+  <li><b>Natural Language Processing:</b> Retrieval-Augmented Generation (RAG) | LLM Fine-tuning, Inference, and Optimization</li>
+  <li><b>Computer Vision:</b> Object Detection (YOLO) | Pose Detection (MediaPipe) | Gesture Recognition</li>
   <li><b>Frontend Frameworks:</b> React.js | Next.js | Angular</li>
-  <li><b>Backend Frameworks:</b> FastAPI | Flask | Spring Boot | Spring | Node.js | Sanity</li>
-  <li><b>DevOps:</b> Docker | Kubernetes | AWS | Terraform | CI/CD | Ansible</li>
-  <li><b>Deployment:</b> Nginx</li>
-  <li><b>Operating Systems:</b> UNIX | Linux (Ubuntu) | Windows</li>
-  <li><b>Mobile App Development:</b> Android Studio | Swift </li>
+  <li><b>Backend Frameworks:</b> FastAPI | Node.js | Loopback | Express | Spring Boot</li>
+  <li><b>Cloud:</b> AWS (Lambda, S3, API Gateway, SQS, ECR, Cognito) | Azure | Terraform | CI/CD</li>
+  <li><b>DevOps:</b> Docker | Kubernetes | GitHub Actions | Jenkins | Ansible | Nginx</li>
+  <li><b>Databases:</b> MySQL | PostgreSQL | MongoDB | Redis | Elasticsearch</li>
 </ul>
-</p>
 </div>
+
 <div align="center">
   <h2>🛠️ My Tech Stack</h2>
   <table width="100%">
@@ -69,7 +72,7 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
       <tr>
         <td><b>PaaS</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=aws,vercel,heroku,netlify,gcp,azure" alt="paas" />
+          <img src="https://skillicons.dev/icons?i=aws,azure,vercel,heroku,netlify,gcp" alt="paas" />
         </td>
       </tr>
       <tr>
@@ -87,7 +90,7 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
       <tr>
         <td><b>Other Tools</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=figma,postman,sentry,notion,discord,selenium," alt="tools" />
+          <img src="https://skillicons.dev/icons?i=figma,postman,sentry,notion,discord" alt="tools" />
         </td>
       </tr>
     </tbody>
@@ -97,35 +100,35 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
 <h2 align="center">My Projects</h2>
 <table>
   <thead>
-    <th>Projects</th>
+    <th>Project</th>
     <th>Description</th>
     <th>Status</th>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/idarshan181/SD-url-shortener">LinkSnip - URL Shortener</a></td>
-      <td>A full-stack URL shortener application that allows users to create short links for long URLs, track link analytics, and manage their links efficiently.</td>
+      <td>Production URL shortening service with link analytics, expiration, and custom aliases. Built with Next.js and PostgreSQL on Vercel. <a href="https://www.linksnip.me">Try it live.</a></td>
+      <td>✅ Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/idarshan181/faceblur-server-fastapi">Surgical Gesture Assistant</a></td>
+      <td>iOS app with MediaPipe and custom ML models for real-time surgical gesture detection. FastAPI backend with async video processing via Redis and Celery.</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
       <td><a href="https://github.com/idarshan181/sick-fits-frontend">Sick Fits</a></td>
-      <td>Advanced React concepts with Next.js and Apollo GraphQL, using Keystone.js as a CMS.</td>
+      <td>Advanced React and Next.js concepts with Apollo GraphQL and Keystone.js as a headless CMS.</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
       <td><a href="https://github.com/idarshan181/ExpenseTracker-MUN">Expense Tracker MUN</a></td>
-      <td>A web-based application designed to help users efficiently manage their finances by tracking income, expenses, and spending habits with real-time insights and budgeting tools.</td>
+      <td>Web app for tracking income, expenses, and spending habits with real-time insights and budgeting tools.</td>
       <td>🔨 In Progress</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/idarshan181/faceblur-server-fastapi">FaceBlur Server</a></td>
-      <td>A Python FastAPI server for handling machine learning tasks, such as detecting gestures and hand movements, designed for integration with an iOS frontend.</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/idarshan181/ResumeSkillBuilder">Resume Skill Builder</a></td>
-      <td>A tool to build and enhance resumes with tailored skills and recommendations.</td>
-      <td>🔜 To Be Started</td>
+      <td>A tool to build and tailor resumes with skills and recommendations matched to job descriptions.</td>
+      <td>🔜 Coming Soon</td>
     </tr>
   </tbody>
 </table>
@@ -134,11 +137,9 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
   <h2>My Stats</h2>
   <table>
     <tr>
-      <!-- GitHub Stats -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=idarshan181&show_icons=true&theme=radical" alt="Darshan Patel Stats" />
       </td>
-      <!-- GitHub Streak -->
       <td>
         <a href="https://git.io/streak-stats">
           <img src="https://github-readme-streak-stats-beige-three.vercel.app?user=idarshan181&theme=whatsapp-dark2" alt="GitHub Streak" />
@@ -153,8 +154,8 @@ I am currently working on <b>exciting personal side projects</b>, focusing on bu
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <div align="center">
       <a href="https://www.idarshan18.com" referrerpolicy="origin" target="_blank"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
-      <a href="www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/idarshan18" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="mailto:work.idarshan18@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      </div>
+    </div>
   </div>
 </div>
